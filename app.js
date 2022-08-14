@@ -1,5 +1,5 @@
 /**
- * WEB222 – Assignment 04
+ * WEB222 – final Assignment 
  *
  * I declare that this assignment is my own work in accordance with
  * Seneca Academic Policy. No part of this assignment has been
@@ -10,7 +10,7 @@
  *
  *      Name:       Utsav Jiteshkumar Bhanderi
  *      Student ID: 159776202
- *      Date:       22 july 2022
+ *      Date:       14th August 2022
  */
 
 // All of our data is available on the global `window` object.
